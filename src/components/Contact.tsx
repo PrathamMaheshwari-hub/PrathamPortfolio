@@ -113,7 +113,7 @@ const Contact: React.FC = () => {
                     <Mail className="text-portfolio-blue w-8 h-8" />
                     <div>
                       <h4 className="text-xl font-bold text-portfolio-blue">Email</h4>
-                      <p className="text-gray-400">gargvirat5@gmail.com</p>
+                      <p className="text-gray-400">prathammaheshwari8256@gmail.com</p>
                     </div>
                   </div>
                   

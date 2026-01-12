@@ -58,7 +58,7 @@ const About: React.FC = () => {
               <div>
                 <h3 className="text-xl font-bold">Education</h3>
                 <p className="text-gray-400">B.Tech in Computer Science & Engineering</p>
-                <p className="text-gray-500 text-sm">IIIT Hyderabad</p>
+                <p className="text-gray-500 text-sm">JECRC </p>
               </div>
             </div>
           </div>

@@ -19,7 +19,7 @@ const Footer: React.FC<FooterProps> = ({ onNavClick }) => {
     <footer className="bg-portfolio-blue py-12 px-6 text-white">
       <div className="container mx-auto">
         <div className="text-center mb-8">
-          <h2 className="text-2xl font-bold mb-4">Virat Garg</h2>
+          <h2 className="text-2xl font-bold mb-4">Pratham Maheshwari</h2>
           <div className="flex justify-center space-x-8 mb-8">
             {navItems.map((item) => (
               <button
@@ -42,7 +42,7 @@ const Footer: React.FC<FooterProps> = ({ onNavClick }) => {
           </div>
           
           <div className="text-sm">
-            © {new Date().getFullYear()} Virat Garg. All rights reserved.
+            © {new Date().getFullYear()} Pratham Maheshwari. All rights reserved.
           </div>
         </div>
       </div>
